@@ -9,7 +9,7 @@
             float altura = 180.72f;
             double anchura = 45.123;
             decimal monto = 9.99m;
-            //Para la proxima clase determinar eñ maximo valor
+            //Para la proxima clase determinar el maximo valor
             //de el tipo de dato float, decimal y double
             float numeroDuperGrande = float.MaxValue;
             Console.WriteLine(numeroDuperGrande);
